@@ -1,352 +1,302 @@
 [
-    {
-       "product_id":138469,
-       "product_name":"Gadget M",
-       "product_description":"Relaxing and soothing lavender-scented candle",
-       "product_category":"Books",
-       "product_price":359.47
-    },
-    {
-       "product_id":704085,
-       "product_name":"Contraption Q",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Books",
-       "product_price":746.67
-    },
-    {
-       "product_id":545043,
-       "product_name":"Gadget M",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Automotive",
-       "product_price":756.55
-    },
-    {
-       "product_id":90855,
-       "product_name":"Gizmo B",
-       "product_description":"Delicious and indulgent chocolate chip cookies",
-       "product_category":"Pet Supplies",
-       "product_price":221.3
-    },
-    {
-       "product_id":678955,
-       "product_name":"Widget A",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Automotive",
-       "product_price":806.84
-    },
-    {
-       "product_id":149061,
-       "product_name":"Contraption Q",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Pet Supplies",
-       "product_price":662.61
-    },
-    {
-       "product_id":105444,
-       "product_name":"Gizmo F",
-       "product_description":"Versatile and practical kitchen knife set",
-       "product_category":"Beauty",
-       "product_price":366.15
-    },
-    {
-       "product_id":980906,
-       "product_name":"Contraption Q",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Home Decor",
-       "product_price":628.56
-    },
-    {
-       "product_id":758046,
-       "product_name":"Gadget M",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Sports",
-       "product_price":863.1
-    },
-    {
-       "product_id":882650,
-       "product_name":"Widget A",
-       "product_description":"Relaxing and soothing lavender-scented candle",
-       "product_category":"Health",
-       "product_price":851.09
-    },
-    {
-       "product_id":60887,
-       "product_name":"Thingamajig C",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Books",
-       "product_price":536.12
-    },
-    {
-       "product_id":56605,
-       "product_name":"Gizmo F",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Health",
-       "product_price":639.16
-    },
-    {
-       "product_id":500921,
-       "product_name":"Doodad X",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Electronics",
-       "product_price":341.27
-    },
-    {
-       "product_id":811835,
-       "product_name":"Doodad X",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Beauty",
-       "product_price":861.24
-    },
-    {
-       "product_id":747040,
-       "product_name":"Gizmo B",
-       "product_description":"Cozy and warm fleece blanket",
-       "product_category":"Pet Supplies",
-       "product_price":57.66
-    },
-    {
-       "product_id":8271,
-       "product_name":"Gizmo B",
-       "product_description":"Sleek and modern stainless steel watch",
-       "product_category":"Health",
-       "product_price":269.47
-    },
-    {
-       "product_id":992136,
-       "product_name":"Gizmo B",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Books",
-       "product_price":145.03
-    },
-    {
-       "product_id":492598,
-       "product_name":"Thingamajig C",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Pet Supplies",
-       "product_price":60.97
-    },
-    {
-       "product_id":745206,
-       "product_name":"Gadget M",
-       "product_description":"Sleek and modern stainless steel watch",
-       "product_category":"Beauty",
-       "product_price":205.93
-    },
-    {
-       "product_id":984901,
-       "product_name":"Thingamajig C",
-       "product_description":"Delicious and indulgent chocolate chip cookies",
-       "product_category":"Books",
-       "product_price":75.36
-    },
-    {
-       "product_id":652619,
-       "product_name":"Doodad X",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Health",
-       "product_price":864.71
-    },
-    {
-       "product_id":617197,
-       "product_name":"Thingamajig C",
-       "product_description":"Sleek and modern stainless steel watch",
-       "product_category":"Electronics",
-       "product_price":795.04
-    },
-    {
-       "product_id":42818,
-       "product_name":"Gadget M",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Beauty",
-       "product_price":43.45
-    },
-    {
-       "product_id":627617,
-       "product_name":"Contraption Q",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Health",
-       "product_price":42.36
-    },
-    {
-       "product_id":900096,
-       "product_name":"Gizmo F",
-       "product_description":"Versatile and practical kitchen knife set",
-       "product_category":"Health",
-       "product_price":516.8
-    },
-    {
-       "product_id":996426,
-       "product_name":"Trinket L",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Home Decor",
-       "product_price":386.99
-    },
-    {
-       "product_id":616826,
-       "product_name":"Gizmo F",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Books",
-       "product_price":906.29
-    },
-    {
-       "product_id":619817,
-       "product_name":"Trinket L",
-       "product_description":"Versatile and practical kitchen knife set",
-       "product_category":"Clothing",
-       "product_price":143.94
-    },
-    {
-       "product_id":585947,
-       "product_name":"Doohickey Z",
-       "product_description":"Versatile and practical kitchen knife set",
-       "product_category":"Pet Supplies",
-       "product_price":458.63
-    },
-    {
-       "product_id":737906,
-       "product_name":"Gizmo B",
-       "product_description":"Delicious and indulgent chocolate chip cookies",
-       "product_category":"Electronics",
-       "product_price":133.62
-    },
-    {
-       "product_id":344910,
-       "product_name":"Whatchamacallit Y",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Home Decor",
-       "product_price":297.72
-    },
-    {
-       "product_id":468829,
-       "product_name":"Contraption Q",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Sports",
-       "product_price":322.26
-    },
-    {
-       "product_id":986404,
-       "product_name":"Doohickey Z",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Toys",
-       "product_price":691.3
-    },
-    {
-       "product_id":515598,
-       "product_name":"Doohickey Z",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Health",
-       "product_price":81.82
-    },
-    {
-       "product_id":779790,
-       "product_name":"Whatchamacallit Y",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Automotive",
-       "product_price":55.44
-    },
-    {
-       "product_id":271146,
-       "product_name":"Doodad X",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Electronics",
-       "product_price":791.19
-    },
-    {
-       "product_id":876535,
-       "product_name":"Contraption Q",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Home Decor",
-       "product_price":705.26
-    },
-    {
-       "product_id":729669,
-       "product_name":"Widget A",
-       "product_description":"Delicious and indulgent chocolate chip cookies",
-       "product_category":"Clothing",
-       "product_price":19.18
-    },
-    {
-       "product_id":634459,
-       "product_name":"Widget A",
-       "product_description":"Sleek and modern stainless steel watch",
-       "product_category":"Books",
-       "product_price":922.64
-    },
-    {
-       "product_id":4977,
-       "product_name":"Widget A",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Home Decor",
-       "product_price":84.83
-    },
-    {
-       "product_id":68463,
-       "product_name":"Widget A",
-       "product_description":"Relaxing and soothing lavender-scented candle",
-       "product_category":"Clothing",
-       "product_price":646.58
-    },
-    {
-       "product_id":654432,
-       "product_name":"Gadget M",
-       "product_description":"Relaxing and soothing lavender-scented candle",
-       "product_category":"Electronics",
-       "product_price":300.88
-    },
-    {
-       "product_id":304612,
-       "product_name":"Thingamajig C",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Health",
-       "product_price":285.98
-    },
-    {
-       "product_id":63776,
-       "product_name":"Doodad X",
-       "product_description":"Soft and comfortable cotton t-shirt",
-       "product_category":"Beauty",
-       "product_price":366.96
-    },
-    {
-       "product_id":145093,
-       "product_name":"Trinket L",
-       "product_description":"Elegant and stylish leather handbag",
-       "product_category":"Beauty",
-       "product_price":285.6
-    },
-    {
-       "product_id":388231,
-       "product_name":"Thingamajig C",
-       "product_description":"Delicious and indulgent chocolate chip cookies",
-       "product_category":"Sports",
-       "product_price":566.75
-    },
-    {
-       "product_id":907147,
-       "product_name":"Whatchamacallit Y",
-       "product_description":"Fun and entertaining board game for the whole family",
-       "product_category":"Health",
-       "product_price":134.95
-    },
-    {
-       "product_id":304400,
-       "product_name":"Doohickey Z",
-       "product_description":"Refreshing and invigorating citrus-scented body wash",
-       "product_category":"Sports",
-       "product_price":827.97
-    },
-    {
-       "product_id":559118,
-       "product_name":"Widget A",
-       "product_description":"Versatile and practical kitchen knife set",
-       "product_category":"Electronics",
-       "product_price":2.09
-    },
-    {
-       "product_id":140223,
-       "product_name":"Contraption Q",
-       "product_description":"Durable and lightweight aluminum water bottle",
-       "product_category":"Home Decor",
-       "product_price":603.58
-    }
- ]
+  {
+    "name": "PowerBlaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Home Goods",
+    "price": 132.49
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Limited edition design with premium materials",
+    "category": "Clothing",
+    "price": 601.57
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "High-quality product with advanced features",
+    "category": "Sports",
+    "price": 409.89
+  },
+  {
+    "name": "TechMaster",
+    "description": "High-quality product with advanced features",
+    "category": "Electronics",
+    "price": 537.33
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "High-quality product with advanced features",
+    "category": "Electronics",
+    "price": 128.8
+  },
+  {
+    "name": "TechMaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Beauty",
+    "price": 796.55
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Affordable and durable option",
+    "category": "Beauty",
+    "price": 112.66
+  },
+  {
+    "name": "UltraThing",
+    "description": "Limited edition design with premium materials",
+    "category": "Beauty",
+    "price": 722.95
+  },
+  {
+    "name": "TechMaster",
+    "description": "High-quality product with advanced features",
+    "category": "Home Goods",
+    "price": 971.84
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "High-quality product with advanced features",
+    "category": "Beauty",
+    "price": 863.49
+  },
+  {
+    "name": "UltraThing",
+    "description": "High-quality product with advanced features",
+    "category": "Home Goods",
+    "price": 416.65
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Affordable and durable option",
+    "category": "Electronics",
+    "price": 190.51
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Limited edition design with premium materials",
+    "category": "Home Goods",
+    "price": 325.48
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Affordable and durable option",
+    "category": "Clothing",
+    "price": 497.5
+  },
+  {
+    "name": "UltraThing",
+    "description": "High-quality product with advanced features",
+    "category": "Clothing",
+    "price": 432.38
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Affordable and durable option",
+    "category": "Sports",
+    "price": 223.48
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Versatile product suitable for various uses",
+    "category": "Clothing",
+    "price": 754.44
+  },
+  {
+    "name": "TechMaster",
+    "description": "Versatile product suitable for various uses",
+    "category": "Sports",
+    "price": 559.71
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Limited edition design with premium materials",
+    "category": "Sports",
+    "price": 671.58
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Affordable and durable option",
+    "category": "Home Goods",
+    "price": 932.99
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Limited edition design with premium materials",
+    "category": "Books",
+    "price": 572.0
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Versatile product suitable for various uses",
+    "category": "Books",
+    "price": 51.65
+  },
+  {
+    "name": "TechMaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Clothing",
+    "price": 243.72
+  },
+  {
+    "name": "UltraThing",
+    "description": "Versatile product suitable for various uses",
+    "category": "Clothing",
+    "price": 434.38
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Versatile product suitable for various uses",
+    "category": "Sports",
+    "price": 314.25
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Versatile product suitable for various uses",
+    "category": "Books",
+    "price": 162.2
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "High-quality product with advanced features",
+    "category": "Sports",
+    "price": 753.71
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Versatile product suitable for various uses",
+    "category": "Beauty",
+    "price": 495.33
+  },
+  {
+    "name": "SuperWidget",
+    "description": "High-quality product with advanced features",
+    "category": "Electronics",
+    "price": 537.09
+  },
+  {
+    "name": "UltraThing",
+    "description": "Affordable and durable option",
+    "category": "Home Goods",
+    "price": 386.84
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Affordable and durable option",
+    "category": "Home Goods",
+    "price": 70.93
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Limited edition design with premium materials",
+    "category": "Electronics",
+    "price": 364.12
+  },
+  {
+    "name": "UltraThing",
+    "description": "Affordable and durable option",
+    "category": "Home Goods",
+    "price": 268.08
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Affordable and durable option",
+    "category": "Clothing",
+    "price": 311.36
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Beauty",
+    "price": 413.1
+  },
+  {
+    "name": "SuperWidget",
+    "description": "High-quality product with advanced features",
+    "category": "Electronics",
+    "price": 991.57
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Affordable and durable option",
+    "category": "Electronics",
+    "price": 806.24
+  },
+  {
+    "name": "UltraThing",
+    "description": "Affordable and durable option",
+    "category": "Sports",
+    "price": 116.25
+  },
+  {
+    "name": "UltraThing",
+    "description": "High-quality product with advanced features",
+    "category": "Clothing",
+    "price": 39.45
+  },
+  {
+    "name": "TechMaster",
+    "description": "Affordable and durable option",
+    "category": "Electronics",
+    "price": 679.66
+  },
+  {
+    "name": "TechMaster",
+    "description": "Versatile product suitable for various uses",
+    "category": "Electronics",
+    "price": 291.74
+  },
+  {
+    "name": "PowerBlaster",
+    "description": "Affordable and durable option",
+    "category": "Home Goods",
+    "price": 950.62
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "High-quality product with advanced features",
+    "category": "Sports",
+    "price": 76.28
+  },
+  {
+    "name": "TechMaster",
+    "description": "Versatile product suitable for various uses",
+    "category": "Electronics",
+    "price": 128.51
+  },
+  {
+    "name": "MegaGizmo",
+    "description": "Versatile product suitable for various uses",
+    "category": "Books",
+    "price": 360.88
+  },
+  {
+    "name": "TechMaster",
+    "description": "Affordable and durable option",
+    "category": "Books",
+    "price": 710.19
+  },
+  {
+    "name": "TechMaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Books",
+    "price": 30.74
+  },
+  {
+    "name": "TechMaster",
+    "description": "Affordable and durable option",
+    "category": "Clothing",
+    "price": 995.81
+  },
+  {
+    "name": "TechMaster",
+    "description": "Limited edition design with premium materials",
+    "category": "Books",
+    "price": 162.61
+  },
+  {
+    "name": "SuperWidget",
+    "description": "Affordable and durable option",
+    "category": "Electronics",
+    "price": 774.21
+  }
+]
