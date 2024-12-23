@@ -48,15 +48,15 @@ const ProductsList = (props) => {
               <TableRow>
                 <StyledTableCell>Product Name</StyledTableCell>
                 <StyledTableCell align="left">Description</StyledTableCell>
-                <StyledTableCell align="left">Catergory</StyledTableCell>
+                <StyledTableCell align="left">Category</StyledTableCell>
                 <StyledTableCell align="left">Price</StyledTableCell>
                 <StyledTableCell align="left">Actions</StyledTableCell>
               </TableRow>
             </TableHead>
             <TableBody>
-              {props.products.length > 0 ? (
+              {props?.products?.length > 0 ? (
                 props.products.map((product) => (
-                  <StyledTableRow key={product._id}>
+                  <StyledTableRow key={product?._id}>
                     <StyledTableCell component="th" scope="row">
                       {product.name}
                     </StyledTableCell>
@@ -78,7 +78,10 @@ const ProductsList = (props) => {
                       />
                       <DeleteIcon
                         color="error"
-                        onClick={() => props.deleteProduct(product._id)}
+                        onClick={() => {
+                          console.log("product", product);
+                          props.deleteProduct(product._id);
+                        }}
                       />
                     </StyledTableCell>
                   </StyledTableRow>
